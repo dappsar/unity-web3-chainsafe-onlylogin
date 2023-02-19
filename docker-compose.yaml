@@ -6,3 +6,8 @@ services:
     build: .
     ports:
       - "8120:80"
+    environment:
+      - BUILD_DIR=Builds/
+
+
+
