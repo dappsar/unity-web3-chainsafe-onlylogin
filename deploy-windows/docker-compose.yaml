@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  webgl:
+    container_name: web3-login-demo
+    image: web3-login-demo
+    build: .
+    ports:
+      - "8120:80"
