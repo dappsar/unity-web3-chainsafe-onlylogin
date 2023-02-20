@@ -8,11 +8,12 @@
 
 ## Introduction
 
-A simple demo to show a web3 Login, developed with [chainSafe SDK for Unity](https://github.com/ChainSafe/web3.unity).
+A simple demo to show a Web3 Login developed with [chainSafe SDK for Unity](https://github.com/ChainSafe/web3.unity).
 
-![app demo](./.doc/images/demo.png)
 
 ![wallets](./.doc/images/wallets.png)
+
+- demo: ![demo](./.doc/media/demo.gif)
 
 
 ## Technology Stack & Tools
@@ -26,7 +27,7 @@ A simple demo to show a web3 Login, developed with [chainSafe SDK for Unity](htt
 
 - [Unity Hub](https://unity.com/download)
 - [Docker](https://docs.docker.com/engine/install/)
-- [Docker-compose]()
+- [Docker-compose](https://docs.docker.com/compose/)
 
 ## Setting Up
 
@@ -36,7 +37,7 @@ A simple demo to show a web3 Login, developed with [chainSafe SDK for Unity](htt
 
 ### 2. Open in Unity
   
-  - Open folder in Unity (tested in Unity Editor **2021.3.18f1**).
+  - Open folder in Unity (tested in Unity Editor **2022.2.7f1**).
   - Build or Build and Run!.
 
 ## 3. Run with Docker
@@ -60,11 +61,6 @@ Execute this command to build and start container:
   `$ docker-compose up -d`
 
 Open browser in http://localhost:8120
-
-### Demo
-
-- video: ![demo](./.doc/media/ChainSafeDemo.gif)
-
 
 # References
 
