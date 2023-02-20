@@ -13,7 +13,7 @@ A simple demo to show a Web3 Login developed with [chainSafe SDK for Unity](http
 
 ![wallets](./.doc/images/wallets.png)
 
-- demo: ![demo](./.doc/media/demo.gif)
+![demo](./.doc/media/demo.gif)
 
 
 ## Technology Stack & Tools
@@ -42,7 +42,7 @@ A simple demo to show a Web3 Login developed with [chainSafe SDK for Unity](http
 
 ### 3. Run Release
 
-1. Download release from [here](https://github.com/dappsar/unity-web3-chainsafe-onlylogin/releases/download/v1.0.0/Builds_v1.0.0.zip)
+1. Download release from [here](https://github.com/dappsar/unity-web3-chainsafe-onlylogin/releases/download/v1.0.0/release-v1.0.0.zip)
 
 2. Unzip release in root folder:
 
