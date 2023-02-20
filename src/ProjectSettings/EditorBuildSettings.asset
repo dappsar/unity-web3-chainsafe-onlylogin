@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Web3Unity/Scenes/WebLogin.unity
     guid: a1b2001e782bb47659732d7e2bcdc35f
   - enabled: 1
-    path: Assets/Scenes/Main.unity
-    guid: d99827eb64e4ae86ca81d66174fe8c5c
+    path: Assets/Scenes/scene2.unity
+    guid: 42bf45ed8bd5a3ba78142950f2161f6d
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}

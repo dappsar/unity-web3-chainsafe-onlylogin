@@ -71,6 +71,6 @@ Open browser in http://localhost:8120
 - [ChainSafe Web3 Unity SDK](https://docs.gaming.chainsafe.io/)
 - [Unity Engine + MetaMask Wallet](https://medium.com/coinmonks/unity-engine-metamask-wallet-6797d4699e45)
 - [Chainsafe Gaming SDK - Making Blockchain Games Plug & Play](https://www.youtube.com/watch?v=qa2TatYgvYs)
+- [ChainSafe Registration Project Site](https://dashboard.gaming.chainsafe.io/)
 - [Goerli Faucet](https://goerli-faucet.pk910.de/)
-
 
