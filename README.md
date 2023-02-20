@@ -40,29 +40,33 @@ A simple demo to show a Web3 Login developed with [chainSafe SDK for Unity](http
   - Open folder in Unity (tested in Unity Editor **2022.2.7f1**).
   - Build or Build and Run!.
 
-## 3. Run with Docker
+### 3. Run Release
 
-### Using Script
+1. Download release from [here](https://github.com/dappsar/unity-web3-chainsafe-onlylogin/releases/download/v1.0.0/Builds_v1.0.0.zip)
 
-Execute this command to build container:
+2. Unzip release in root folder:
 
-`$ ./build.sh -n web3-demo -p8120 -d .`
+![release image](./.doc/images/release.png)
 
-Notes: 
-  - _web3-demo_: It is the container name 
-  - _'.'_: It indicates the sub-folder within the 'Builds' folder that contains the build files. Assumes the files are in the root of builds folder.
+3. Execute this command to build container wtih script:
 
-Open browser in: http://localhost:8120
+    `$ ./build.sh -n web3-demo -p8120 -d .`
 
-### Using docker-compose
+    Notes: 
+      - _web3-demo_: It is the container name.
+      - _'.'_: It indicates the sub-folder within the 'Builds' folder that contains the build files. Assumes the files are in the root of builds folder.
 
-Execute this command to build and start container:
+    <br/>
+    Another option, use docker-compose: 
+    
+    `$ docker-compose up -d`
 
-  `$ docker-compose up -d`
 
-Open browser in http://localhost:8120
+4. Open browser in: http://localhost:8120
 
-# References
+---
+
+## References
 
 - [ChainSafe Web3 Unity SDK](https://docs.gaming.chainsafe.io/)
 - [Unity Engine + MetaMask Wallet](https://medium.com/coinmonks/unity-engine-metamask-wallet-6797d4699e45)
