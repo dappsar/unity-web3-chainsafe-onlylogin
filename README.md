@@ -1,8 +1,8 @@
 ![unity](https://img.shields.io/badge/unity-informational?style=flat&logo=unity&logoColor=white&color=6aa6f8)
+![csharp](https://img.shields.io/badge/csharp-informational?style=flat&logo=csharp&logoColor=white&color=6aa6f8)
 ![web3](https://img.shields.io/badge/web3-informational?style=flat&logo=web3&logoColor=white&color=6aa6f8)
 ![blockchain](https://img.shields.io/badge/blockchain-informational?style=flat&logo=blockchain&logoColor=white&color=6aa6f8)
 ![chainsafe](https://img.shields.io/badge/chainsafe-informational?style=flat&logo=chainsafe&logoColor=white&color=6aa6f8)
-
 
 # Demo Unity App with Web3 Login
 
